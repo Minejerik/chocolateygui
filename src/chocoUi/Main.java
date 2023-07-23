@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello world!");
         mainGui main = new mainGui();
         main.createAndShowGui();
+        main.add_packages();
     }
 }
